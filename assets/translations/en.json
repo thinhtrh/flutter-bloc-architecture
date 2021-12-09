@@ -1,0 +1,11 @@
+{
+  "todoList": "Todo List",
+  "confirmation": "Confirmation",
+  "updateTodoMessage": "Did you finish this task?",
+  "yes": "Yes",
+  "no": "No",
+  "addNewTodo": "Add new Todo",
+  "add": "Add",
+  "created_date": "Created date",
+  "finished_date": "Finished date"
+}

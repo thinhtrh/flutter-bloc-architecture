@@ -1,0 +1,11 @@
+{
+  "todoList": "Danh sách việc",
+  "confirmation": "Xác nhận",
+  "updateTodoMessage": "Bạn đã hoàn thành công việc này?",
+  "yes": "Đồng ý",
+  "no": "Không",
+  "addNewTodo": "Thêm công việc mới",
+  "add": "Thêm",
+  "created_date": "Ngày tạo",
+  "finished_date": "Ngày hoàn thành"
+}
